@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Software Engineering Co-op student <br><br>⚡ Hands-on experience with Python, full-Stack development, and databases<br><br>🔭 Interest in System Design, Databases, and Software development<br><br>🤝 Collaborative, detail-oriented, and eager to learn
+🌱 Software Engineering Student <br><br>⚡ Hands-on experience with Python, full-Stack development, and databases<br><br>🔭 Interest in System Design, Databases, and Software development<br><br>🤝 Collaborative, detail-oriented, and eager to learn
 
 
 ## 🌐 Socials:
